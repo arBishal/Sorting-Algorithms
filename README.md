@@ -2,3 +2,4 @@
 This repository contains simple implementations of the most popular sorting algorithms.
 Here is the list---
 * Selection Sort
+* Insertion Sort
