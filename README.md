@@ -4,3 +4,4 @@ Here is the list—
 * Selection Sort
 * Insertion Sort
 * Bubble Sort (with optimization)
+* Quick Sort
