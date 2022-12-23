@@ -5,3 +5,4 @@ Here is the list—
 * Insertion Sort
 * Bubble Sort (with optimization)
 * Quick Sort
+* Merge Sort
